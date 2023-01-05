@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rayane Nabigha.
 - 👀 I’m interested in IT, music, video games and foreign cultures.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate in a front-end development internship
 - 📫 How to reach me : rayane.nabigha@supinfo.com or at 07 50 96 59 74
 
